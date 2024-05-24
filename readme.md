@@ -1,6 +1,6 @@
 # Welcome
 
-I have two degrees: one in computer science and one in economics. Currently employed in technology and banking. Full-stack web, automation, algorithms, data structures, Java,.NET, and Xamarin make up the majority of 
+Student and future trader in London
 <br />
 <br />
 ---
